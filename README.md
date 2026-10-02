@@ -13,6 +13,8 @@ The inputs are tabular module characteristics and operating/condition variables,
 - Bernardo Justiça Godinho (up202107351)
 - Ema Fernandes (up201909527)
 
+Bernardo primarily handled model training, evaluation and the deep-learning comparison. Ana Carolina handled exploratory data analysis and preprocessing, as well as most of the report and repository organisation. The work was completed jointly with Ema Fernandes.
+
 ## Data and preparation
 
 The repository includes `data/raw/pv_module_efficiency_dataset.csv` and an Excel copy. Inputs include affected area, temperature, irradiance, open-circuit voltage (`Voc`), short-circuit current (`Isc`), module type, hotspot, bird-dropping, soiling and junction-box categories.
