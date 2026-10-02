@@ -13,7 +13,7 @@ The inputs are tabular module characteristics and operating/condition variables,
 - Bernardo Justiça Godinho (up202107351)
 - Ema Fernandes (up201909527)
 
-Bernardo primarily handled model training, evaluation and the deep-learning comparison. Ana Carolina handled exploratory data analysis and preprocessing, as well as most of the report and repository organisation. The work was completed jointly with Ema Fernandes.
+Bernardo primarily handled model training, evaluation and the deep-learning comparison. The project was developed collaboratively with Ana Carolina Alves and Ema Fernandes.
 
 ## Data and preparation
 
